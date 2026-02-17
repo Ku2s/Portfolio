@@ -1,0 +1,106 @@
+                                Portfolio Parcours MIAGE
+
+
+Modalités d'évaluation : Contrôle continu 50% de la moyenne + 50% Examen de deux heures
+
+(Utilisation de L’IA permise)
+
+Le portfolio numérique doit être présenté comme le livrable principal avec le projet CRM à réaliser
+
+
+
+Consigne                        Compétence visée                    Critères de réussite
+
+
+
+Tous les travaux doivent être   Organiser et centraliser ses        Le portfolio contient tous les
+déposés dans un portfolio       productions dans un espace          travaux demandés, organisés de
+numérique.                      numérique structuré.                manière claire et accessible.
+
+
+
+
+                                Publier et mettre en ligne un site Le site est accessible en ligne via
+Hébergement gratuit sur
+                                web en utilisant un service        une URL valide et fonctionne
+Github ou autre plateforme.
+                                d’hébergement adapté.              correctement.
+
+
+
+
+Utilisation des commandes
+                                Maîtriser les bases du versionnage Les mises à jour du portfolio sont
+Git pour assurer les Commits
+                                de code avec Git (init, add,       régulièrement suivies par des
+(les Mises à jour) du
+                                commit, push, pull).               commits clairs et datés.
+portfolio.
+
+
+
+
+                                                                    Le code source du site est rédigé
+Tous les portfolios seront      Développer un site web statique
+                                                                    manuellement, lisible et respecte
+codés à la main sans            en HTML, CSS et JavaScript(
+                                                                    les standards du web (HTML5,
+utilisation de CMS.             utilisation de L’IA permise).
+                                                                    CSS3, JS).
+
+
+
+
+Contenu du portfolio
+Consigne                 Compétence visée                         Critères de réussite
+
+                         Gérer et organiser ses productions
+                                                                  Tous les travaux demandés sont
+Rubrique 1 : déposer les académiques.
+                                                                  déposés, complets et
+Travaux demandés         Déposer tous les dossiers réalisés en    correctement nommés.
+                         classe
+
+
+Rubrique 2 : déposer les Développer une autonomie dans la prise
+                                                                Les notes de cours sont claires,
+supports de cours        de notes et la gestion des ressources
+                                                                structurées et accessibles.
+(complétés)              personnelles.
+
+
+Rubrique 3 : Les                                                  Les certificats sont déposés en
+certifications +         Valoriser quelques compétences par des
+                                                                  format lisible (PDF ou image) et
+                         attestations ou certifications obtenues.
+Projets réalisés                                                  correctement identifiés.
+
+
+
+                         Concevoir et réaliser un projet          Le projet est réalisé, documenté et
+Rubrique 4 : Le projet
+                         numérique intégrant les compétences      présenté de manière
+final
+                         acquises.                                professionnelle.
+
+
+
+                                                                  Le diaporama est structuré,
+Rubrique 5 : Diaporama Synthétiser et présenter un projet de
+                                                                  visuellement lisible et adapté à
+pour la soutenance     manière claire et professionnelle.
+                                                                  une présentation orale.
+
+
+
+                         Développer une capacité de veille et     Les ressources ajoutées sont
+Rubrique 6 : Autres
+                         d’enrichissement personnel par des       pertinentes, variées et
+ressources
+                         ressources complémentaires.              correctement référencées.
+
+
+
+
+A propos de moi          CV format ATS + compte linkdeln
+
